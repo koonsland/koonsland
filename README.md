@@ -24,7 +24,4 @@
 - 백엔드와 프론트엔드 통합
 - 데이터베이스 설계 및 최적화
 
-## ⚡ 재미있는 사실
-코딩하지 않을 때는 오픈 소스 프로젝트에 기여하고 새로운 기술을 탐구하는 것을 좋아합니다. 또한 하이킹과 새로운 장소를 발견하는 것을 즐깁니다!
-
 ![GitHub 통계](https://github-readme-stats.vercel.app/api?username=koonsland&show_icons=true&theme=radical)
