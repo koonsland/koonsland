@@ -15,7 +15,7 @@
 현재 Spring Boot와 Next.js의 기능을 탐구하고 있으며, 확장 가능한 애플리케이션을 위한 성능 최적화 기술에 대해 공부하고 있습니다.
 
 ## 📫 연락 방법
-- **이메일**: [nicegsp@gmail.com](mailto:nicegspl@gmail.com)
+- **이메일**: [nicegsp@gmail.com](mailto:koonsland@gmail.com)
 - **블로그**: [쿤즈랜드 블로그](https://koonsland.tistory.com)
 
 ## 💬 저에게 물어보세요
